@@ -177,5 +177,3 @@ GBP 선물은 사전 이벤트 분석에 포함됐지만 최종 로그에는 종
 ---
 
 > This repository documents a simulated trading competition for educational and portfolio purposes. It is not investment advice.
-
-
